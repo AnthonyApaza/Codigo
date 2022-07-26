@@ -6,3 +6,4 @@ Tengo seis hermanos
 Me gusta jugar "nada"
 Soy fan de SAMSUNG.
 Por naviadad me gusta comer pavo y tomar coca cola.
+Esto lo estoy haciendo en mi rama de anthony_dev y quiero que los cambios se junten con main
